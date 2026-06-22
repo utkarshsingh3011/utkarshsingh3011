@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Utkarsh 👋
 
-<!--
-**utkarshsingh3011/utkarshsingh3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE Student at JIIT Noida
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity
+- Threat Simulation
+- Network Security
+- Security Analytics
+- AI for Security
+
+## Featured Project
+
+🛡️ Sentinel
+
+Interactive cybersecurity simulation platform designed to help students understand attack paths, MITRE ATT&CK techniques, and defensive strategies.
+
+Live:
+https://sentinel-cyberlabs.vercel.app
+
+Repository:
+https://github.com/utkarshsingh3011/SENTINEL
