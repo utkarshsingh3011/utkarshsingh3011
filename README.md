@@ -1,14 +1,15 @@
-# Hi, I'm Utkarsh
+# Hi, I'm Utkarsh 
 
-ECE Student at JIIT Noida.
+ECE Student @ JIIT Noida
 
-Interested in cybersecurity, threat simulation, network security, and security analytics.
+Building projects around cybersecurity, security visualization, and modern web technologies.
 
-## Featured Project
+### Featured Project
 
-🛡️ Sentinel
+🛡️ Sentinel — Interactive Cybersecurity Learning Platform
 
-Interactive cybersecurity simulation platform for understanding attack paths, MITRE ATT&CK techniques, and defensive strategies.
-
-Live:
 https://sentinel-cyberlabs.vercel.app
+
+### Interests
+
+Cybersecurity • Ethical Hacking
