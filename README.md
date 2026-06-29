@@ -12,8 +12,7 @@ https://sentinel-cyberlabs.vercel.app
 
 ### Currently Building
 
-⚡ Sentinel Edge
-The hardware extension of Sentinel.
+⚡ Sentinel Edge - The hardware extension of Sentinel
 
 A smart IoT security monitoring system powered by ESP32 that combines embedded systems, sensors, networking, backend services, and a modern dashboard into a single engineering project.
 
