@@ -1,8 +1,8 @@
 # Hi, I'm Utkarsh 
 
-ECE Student @ JIIT Noida | Embedded Systems • Cybersecurity • Full-Stack Development
+ECE Student @ JIIT Noida | Exploring Electronics and Cybersecurity
 
-Building products at the intersection of hardware, software, and security.
+Building projects at the intersection of hardware, software, and security.
 
 ### Featured Project
 
