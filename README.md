@@ -1,21 +1,130 @@
-# Hi, I'm Utkarsh 
+<div align="center">
 
-ECE Student @ JIIT Noida | Exploring Electronics and Cybersecurity
+# Hi, I'm Utkarsh Singh 👋
 
-Building projects at the intersection of hardware, software, and security.
+### ECE Student @ JIIT Noida • Cybersecurity • IoT • Embedded Systems
 
-### Featured Project
+Building practical projects where hardware, software, and security come together.
 
-🛡️ Sentinel — Interactive Cybersecurity Learning Platform
 
-https://sentinel-cyberlabs.vercel.app
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Building+Sentinel;ESP32+Developer;ECE+Student;Learning+by+Building" />
 
-### Currently Building
+</div>
 
-⚡ Sentinel Edge - The hardware extension of Sentinel
+---
 
-A smart IoT security monitoring system powered by ESP32 that combines embedded systems, sensors, networking, backend services, and a modern dashboard into a single engineering project.
+# About Me
 
-### Interests
+🎓 B.Tech Electronics & Communication Engineering student at **JIIT Noida**
 
-Cybersecurity • Ethical Hacking • Internet of Things (IoT)
+🔐 Passionate about Cybersecurity, Ethical Hacking and Embedded Systems.
+
+💡 I enjoy creating projects that explain security concepts through practical implementations instead of just theory.
+
+---
+
+# Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,html,css" />
+</p>
+
+### Cybersecurity & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,bash" />
+</p>
+
+### Hardware
+
+- ESP32
+- Arduino
+- Sensors
+- PCB Design (Learning)
+- KiCad (Learning)
+
+---
+
+# Featured Projects
+
+## 🛡️ Sentinel
+
+Interactive cybersecurity learning platform that explains real-world cyber attacks through visual simulations and guided walkthroughs.
+
+🔗 https://sentinel-cyberlabs.vercel.app
+
+---
+
+## ⚡ Sentinel Edge
+
+An ESP32-powered IoT security monitoring system combining embedded systems, sensors, networking, and a modern dashboard.
+
+Status:
+
+🚧 Currently under development
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh3011&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh3011&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh3011&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh3011&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=utkarshsingh3011&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/utkarshsingh3011">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ustsingh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+> *"The best way to understand security is to build it."*
