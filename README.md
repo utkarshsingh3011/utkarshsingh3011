@@ -83,8 +83,6 @@ Status:
 
 # Connect With Me
 
-## Connect
-
 LinkedIn → https://linkedin.com/in/utkarshsingh3011
 
 Email → ustsingh@gmail.com
