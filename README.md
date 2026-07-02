@@ -28,13 +28,13 @@ Building practical projects where hardware, software, and security come together
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,html,css" />
 </p>
 
 ### Cybersecurity & Tools
@@ -74,12 +74,6 @@ Status:
 ---
 
 # GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh3011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh3011&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=utkarshsingh3011&theme=tokyonight&hide_border=true" />
