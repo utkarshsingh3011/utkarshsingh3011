@@ -7,7 +7,7 @@
 Building practical projects where hardware, software, and security come together.
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Building+Sentinel;ESP32+Developer;ECE+Student;Learning+by+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Building+Sentinel;ECE+Student;Learning+by+Building" />
 
 </div>
 
