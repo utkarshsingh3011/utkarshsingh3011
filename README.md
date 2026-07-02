@@ -53,26 +53,6 @@ Building practical projects where hardware, software, and security come together
 
 ---
 
-# Featured Projects
-
-## 🛡️ Sentinel
-
-Interactive cybersecurity learning platform that explains real-world cyber attacks through visual simulations and guided walkthroughs.
-
-🔗 https://sentinel-cyberlabs.vercel.app
-
----
-
-## ⚡ Sentinel Edge
-
-An ESP32-powered IoT security monitoring system combining embedded systems, sensors, networking, and a modern dashboard.
-
-Status:
-
-🚧 Currently under development
-
----
-
 # GitHub Stats
 
 <p align="center">
