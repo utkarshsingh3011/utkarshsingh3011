@@ -76,34 +76,24 @@ Status:
 # GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh3011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh3011&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh3011&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsingh3011&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh3011&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=utkarshsingh3011&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # Connect With Me
 
-<p>
+## Connect
 
-<a href="https://linkedin.com/in/utkarshsingh3011">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+LinkedIn → https://linkedin.com/in/utkarshsingh3011
 
-<a href="mailto:ustsingh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+Email → ustsingh@gmail.com
 
 ---
 
