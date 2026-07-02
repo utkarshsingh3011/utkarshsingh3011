@@ -91,26 +91,6 @@ Status:
 
 ---
 
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh3011&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=utkarshsingh3011&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # Connect With Me
 
 <p>
