@@ -1,72 +1,80 @@
-<div align="center">
-
-# Hi, I'm Utkarsh Singh 👋
-
-### ECE Student @ JIIT Noida • Cybersecurity • IoT • Embedded Systems
-
-Building practical projects where hardware, software, and security come together.
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;ECE+Student;Learning+by+Building" />
-
-</div>
-
----
-
-# About Me
-
-🎓 B.Tech Electronics & Communication Engineering student at **JIIT Noida**
-
-🔐 Passionate about Cybersecurity, Ethical Hacking and Embedded Systems.
-
-💡 I enjoy creating projects that explain security concepts through practical implementations instead of just theory.
-
----
-
-# Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=UTKARSH+SINGH;ECE+Student+%40+JIIT+Noida;Cybersecurity+%26+Embedded+Systems" alt="Typing SVG" />
+  </a>
 </p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,html,css" />
-</p>
-
-### Cybersecurity & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,bash" />
-</p>
-
-### Hardware
-
-- ESP32
-- Arduino
-- Sensors
-- PCB Design (Learning)
-- KiCad (Learning)
-
----
-
-# GitHub Stats
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=utkarshsingh3011&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/utkarshsingh3011"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:u.singh3011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dashboard.cybersec-everest.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-# Connect With Me
+## ⚡ System Snapshot
 
-LinkedIn → https://linkedin.com/in/utkarshsingh3011
-
-Email → ustsingh@gmail.com
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2024 - 2028)</td>
+    <td align="center" width="25%"><b>Hardware Security</b><br>Firmware & IoT Defenses</td>
+    <td align="center" width="25%"><b>Active Prototyper</b><br>ESP32 & Microcontrollers</td>
+    <td align="center" width="25%"><b>Full-Stack</b><br>MERN & Next.js Ecosystems</td>
+  </tr>
+</table>
 
 ---
 
-> *"The best way to understand security is to build it."*
+## 🎓 Education
+
+**B.Tech - Electronics & Communication Engineering (ECE)** | *Jaypee Institute of Information Technology (JIIT), Noida* <br>
+> Passionate about bridging the gap between physical hardware circuits and digital cybersecurity defenses through practical implementations instead of just theory.
+
+---
+
+## 🧰 Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `TypeScript` |
+| **Web Architecture** | `React.js` `Next.js` `Node.js` `TailwindCSS` `HTML5` `CSS3` |
+| **Databases & DevOps** | `MongoDB` `Git` `Docker` `Linux` |
+| **Cybersecurity** | `Burp Suite` `Wireshark` `Metasploit` `Nmap` |
+| **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors & Peripherals` |
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=utkarshsingh3011&show_icons=true&theme=tokyonight&hide_border=true" alt="Utkarsh's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utkarshsingh3011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh3011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <!-- Note: This requires standard GitHub Activity Graph deployment -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh3011&bg_color=1a1b27&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <!-- Note: To make the snake work, you must set up the snk GitHub Action in your profile repository -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshsingh3011/utkarshsingh3011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarshsingh3011/utkarshsingh3011/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/utkarshsingh3011/utkarshsingh3011/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
