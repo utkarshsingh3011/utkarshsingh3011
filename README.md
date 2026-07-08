@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/utkarshsingh3011"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:u.singh3011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://dashboard.cybersec-everest.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:utkarsh301105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2024 - 2028)</td>
+    <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2025 - 2029)</td>
     <td align="center" width="25%"><b>Hardware Security</b><br>Firmware & IoT Defenses</td>
     <td align="center" width="25%"><b>Active Prototyper</b><br>ESP32 & Microcontrollers</td>
     <td align="center" width="25%"><b>Full-Stack</b><br>MERN & Next.js Ecosystems</td>
@@ -38,7 +37,7 @@
 | :--- | :--- |
 | **Languages** | `Python` `JavaScript` `TypeScript` |
 | **Web Architecture** | `React.js` `Next.js` `Node.js` `TailwindCSS` `HTML5` `CSS3` |
-| **Databases & DevOps** | `MongoDB` `Git` `Docker` `Linux` |
+| **Databases & DevOps** | `Git` `Docker` `Linux` |
 | **Cybersecurity** | `Burp Suite` `Wireshark` `Metasploit` `Nmap` |
 | **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors & Peripherals` |
 
