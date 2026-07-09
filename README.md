@@ -16,7 +16,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2025 - 2029)</td>
-    <td align="center" width="25%"><b>Hardware Security</b><br>Firmware & IoT Defenses</td>
+    <td align="center" width="25%"><b>Hardware Security</b><br>Firmware & IoT </td>
     <td align="center" width="25%"><b>Active Prototyper</b><br>ESP32 & Microcontrollers</td>
     <td align="center" width="25%"><b>Full-Stack</b><br>MERN & Next.js Ecosystems</td>
   </tr>
