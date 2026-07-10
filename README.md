@@ -39,7 +39,7 @@
 | **Web Architecture** | `React.js` `Next.js` `Node.js` `TailwindCSS` `HTML5` `CSS3` |
 | **Databases & DevOps** | `Git` `Docker` `Linux` |
 | **Cybersecurity** | `Burp Suite` `Wireshark` `Metasploit` `Nmap` |
-| **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors & Peripherals` |
+| **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors` |
 
 ---
 
