@@ -64,7 +64,7 @@
 
 <p align="center">
   <!-- Note: This requires standard GitHub Activity Graph deployment -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh3011&bg_color=1a1b27&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsingh3011&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ### Contribution Snake
