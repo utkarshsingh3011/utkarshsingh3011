@@ -16,9 +16,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2025 - 2029)</td>
-    <td align="center" width="25%"><b>Hardware Security</b><br>Firmware & IoT </td>
+    <td align="center" width="25%"><b>Building IoT systems using ESP32 and FastAPI</b></td>
     <td align="center" width="25%"><b>Active Prototyper</b><br>ESP32 & Microcontrollers</td>
-    <td align="center" width="25%"><b>Full-Stack</b><br>MERN & Next.js Ecosystems</td>
+    <td align="center" width="25%"><b>Next.js • TypeScript • FastAPI</b><br>MERN & Next.js Ecosystems</td>
   </tr>
 </table>
 
@@ -40,6 +40,30 @@
 | **Databases & DevOps** | `Git` `Docker` `Linux` |
 | **Cybersecurity** | `Burp Suite` `Wireshark` `Metasploit` `Nmap` |
 | **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors` |
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Sentinel Edge
+Real-time IoT monitoring dashboard powered by ESP32.
+
+• ESP32 + DHT11 + MQ2 + PIR
+• FastAPI Backend
+• Next.js Dashboard
+• Live Sensor Charts
+• Hardware + Software Integration
+
+---
+
+### 🛡️ Sentinel
+
+Interactive cybersecurity education platform built to simplify complex attack techniques through visual simulations.
+
+• Next.js
+• TypeScript
+• TailwindCSS
+• Gemini API
 
 ---
 
