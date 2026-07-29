@@ -14,12 +14,27 @@
 ## ⚡ System Snapshot
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><b>B.Tech ECE</b><br>JIIT Noida (2025 - 2029)</td>
-    <td align="center" width="25%"><b>Building IoT systems using ESP32 and FastAPI</b></td>
-    <td align="center" width="25%"><b>Active Prototyper</b><br>ESP32 & Microcontrollers</td>
-    <td align="center" width="25%"><b>Next.js • TypeScript • FastAPI</b><br>MERN & Next.js Ecosystems</td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<b>B.Tech ECE</b><br>
+JIIT Noida (2025–2029)
+</td>
+
+<td align="center" width="25%">
+<b>Full Stack Developer</b><br>
+Modern Web Applications
+</td>
+
+<td align="center" width="25%">
+<b>Cybersecurity & IoT</b><br>
+ESP32 • Embedded Systems
+</td>
+
+<td align="center" width="25%">
+<b>React • Next.js • FastAPI</b><br>
+Python • TypeScript
+</td>
+</tr>
 </table>
 
 ---
@@ -27,43 +42,68 @@
 ## 🎓 Education
 
 **B.Tech - Electronics & Communication Engineering (ECE)** | *Jaypee Institute of Information Technology (JIIT), Noida* <br>
-> Passionate about bridging the gap between physical hardware circuits and digital cybersecurity defenses through practical implementations instead of just theory.
+
+> Passionate about building software that bridges full-stack development, embedded systems, cybersecurity and IoT through practical projects and continuous learning.
 
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `TypeScript` |
-| **Web Architecture** | `React.js` `Next.js` `Node.js` `TailwindCSS` `HTML5` `CSS3` |
-| **Databases & DevOps** | `Git` `Docker` `Linux` |
-| **Cybersecurity** | `Burp Suite` `Wireshark` `Metasploit` `Nmap` |
-| **Hardware & Embedded** | `ESP32` `Arduino` `PCB Design` `KiCad` `Sensors` |
+| **Languages** | `C++` `Python` `JavaScript` `TypeScript` |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` |
+| **Backend** | `FastAPI` `Node.js` `Express.js` `REST APIs` |
+| **Databases** | `MongoDB` `MySQL` |
+| **Developer Tools** | `Git` `GitHub` `Linux` `VS Code` `Postman` |
+| **Cybersecurity** | `Burp Suite` `Wireshark` `Nmap` `Metasploit` |
+| **Embedded Systems** | `ESP32` `Arduino IDE` `KiCad` `PCB Design` `UART` `I²C` `SPI` `DHT11` `MQ-2` `PIR` |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ Sentinel Edge
-Real-time IoT monitoring dashboard powered by ESP32.
+### 🛡️ Sentinel
+
+Interactive cybersecurity learning platform helping students understand cyber attacks through visual simulations, attack storyboards and guided learning.
+
+• Interactive Attack Simulations
+
+• AI-assisted Explanations
+
+• Responsive Dashboard
+
+• Built using Next.js, TypeScript, TailwindCSS and Gemini API
+
+---
+
+### ⚡ Sentinel Edge
+
+Real-time IoT monitoring platform integrating ESP32 hardware with a modern web dashboard.
 
 • ESP32 + DHT11 + MQ2 + PIR
+
 • FastAPI Backend
-• Next.js Dashboard
-• Live Sensor Charts
+
+• Live Sensor Monitoring
+
 • Hardware + Software Integration
 
 ---
 
-### 🛡️ Sentinel
+### 🛒 EdgeKart
 
-Interactive cybersecurity education platform built to simplify complex attack techniques through visual simulations.
+Modern electronics marketplace built using the MERN ecosystem.
 
-• Next.js
-• TypeScript
-• TailwindCSS
-• Gemini API
+• Authentication
+
+• Product Catalog
+
+• Shopping Cart
+
+• Wishlist
+
+• Admin Dashboard
 
 ---
 
