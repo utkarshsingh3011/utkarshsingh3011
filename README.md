@@ -54,7 +54,7 @@ Python • TypeScript
 | **Languages** | `C++` `Python` `JavaScript` `TypeScript` |
 | **Frontend** | `React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` |
 | **Backend** | `FastAPI` `Node.js` `Express.js` `REST APIs` |
-| **Databases** | `MongoDB` `MySQL` |
+| **Databases** | `MongoDB` `MySQL` `PostgreSQL` |
 | **Developer Tools** | `Git` `GitHub` `Linux` `VS Code` `Postman` |
 | **Cybersecurity** | `Burp Suite` `Wireshark` `Nmap` `Metasploit` |
 | **Embedded Systems** | `ESP32` `Arduino IDE` `KiCad` `PCB Design` `UART` `I²C` `SPI` `DHT11` `MQ-2` `PIR` |
